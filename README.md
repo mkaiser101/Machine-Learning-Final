@@ -18,7 +18,6 @@
 <ul>
   <li>Spotify</li>
   <li>Twitter</li>
-  <li>MySQL - <a href="https://dev.mysql.com/doc/refman/5.7/en/installing.html">installation guide</a></li>
 </ul>
 <h1>Frameworks Used</h1>
 <ul>
