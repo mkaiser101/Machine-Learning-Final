@@ -16,7 +16,7 @@
 
 <h1>Web Api's used for data extraction</h1>
 <ul>
-  <li>Spotify - <a href="https://developer.spotify.com/web-api/console/get-audio-features-track/">dowload Song Specific Data</a></li>
+  <li>Spotify - <a href="https://developer.spotify.com/web-api/console/get-audio-features-track/">dowload Song Specific Data</a> or  use curl via command line: curl -X GET "https://api.spotify.com/v1/audio-features/06AKEBrKUckW0KREUWRnvT" -H "Authorization: Bearer {your access token}"</li>
   <li>Twitter</li>
 </ul>
 <h1>Frameworks Used</h1>
