@@ -1,0 +1,22 @@
+[{
+  "Song" : "Humble",
+  "Artist" : "Kendrick Lamar",
+  "danceability" : 0.904,
+  "energy" : 0.611,
+  "key" : 1,
+  "loudness" : -6.842,
+  "mode" : 0,
+  "speechiness" : 0.0888,
+  "acousticness" : 0.000259,
+  "instrumentalness" : 0.0000203,
+  "liveness" : 0.0976,
+  "valence" : 0.400,
+  "tempo" : 150.020,
+  "type" : "audio_features",
+  "id" : "7KXjTSCq5nL1LoYtL7XAwS",
+  "uri" : "spotify:track:7KXjTSCq5nL1LoYtL7XAwS",
+  "track_href" : "https://api.spotify.com/v1/tracks/7KXjTSCq5nL1LoYtL7XAwS",
+  "analysis_url" : "https://api.spotify.com/v1/audio-analysis/7KXjTSCq5nL1LoYtL7XAwS",
+  "duration_ms" : 177000,
+  "time_signature" : 4
+}]
