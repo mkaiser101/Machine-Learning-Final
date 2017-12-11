@@ -1,0 +1,22 @@
+[{
+  "Artist": "Kendrick Lamar",
+  "Track_ID": "Loyalty",
+  "danceability": 0.681,
+  "energy": 0.541,
+  "key": 9,
+  "loudness": -8.926,
+  "mode": 0,
+  "speechiness": 0.055,
+  "acousticness": 0.0224,
+  "instrumentalness": 0,
+  "liveness": 0.167,
+  "valence": 0.413,
+  "tempo": 110.803,
+  "type": "audio_features",
+  "id": "6SwRhMLwNqEi6alNPVG00n",
+  "uri": "spotify:track:6SwRhMLwNqEi6alNPVG00n",
+  "track_href": "https://api.spotify.com/v1/tracks/6SwRhMLwNqEi6alNPVG00n",
+  "analysis_url": "https://api.spotify.com/v1/audio-analysis/6SwRhMLwNqEi6alNPVG00n",
+  "duration_ms": 227360,
+  "time_signature": 4
+}]
