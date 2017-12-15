@@ -1,5 +1,11 @@
+<<<<<<< HEAD
+{
+    "Plays":14000000,
+    "Arist": "Kendrick Lamar",
+=======
 [{
     "Artist": "Kendrick Lamar",
+>>>>>>> 01d26acf402bd64c4851e21d5196d565bb445462
     "Track_ID": "Element",
     "danceability": 0.734,
     "energy": 0.687,
@@ -19,4 +25,8 @@
     "analysis_url": "https://api.spotify.com/v1/audio-analysis/1EaKU4dMbesXXd3BrLCtYG",
     "duration_ms": 208733,
     "time_signature": 4
+<<<<<<< HEAD
+  }
+=======
 }]
+>>>>>>> 01d26acf402bd64c4851e21d5196d565bb445462
