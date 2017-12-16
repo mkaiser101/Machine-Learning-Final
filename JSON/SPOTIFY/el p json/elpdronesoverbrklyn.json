@@ -1,0 +1,23 @@
+[{
+"song" : "drones over bklyn",
+   "artist" : "el p",
+    "plays" : 3292000,
+  "danceability" : 0.488,
+  "energy" : 0.893,
+  "key" : 8,
+  "loudness" : -4.188,
+  "mode" : 1,
+  "speechiness" : 0.273,
+  "acousticness" : 0.0165,
+  "instrumentalness" : 0.0000387,
+  "liveness" : 0.0835,
+  "valence" : 0.239,
+  "tempo" : 139.742,
+  "type" : "audio_features",
+  "id" : "6fYonstl3elKroeUaFysIS",
+  "uri" : "spotify:track:6fYonstl3elKroeUaFysIS",
+  "track_href" : "https://api.spotify.com/v1/tracks/6fYonstl3elKroeUaFysIS",
+  "analysis_url" : "https://api.spotify.com/v1/audio-analysis/6fYonstl3elKroeUaFysIS",
+  "duration_ms" : 349760,
+  "time_signature" : 3
+}]

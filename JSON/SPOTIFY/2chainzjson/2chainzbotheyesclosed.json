@@ -1,0 +1,23 @@
+[{
+    "song" : "both eyes closed",
+   "artist" : "2 Chainz",
+    "plays" : 23000000,
+  "danceability" : 0.704,
+  "energy" : 0.558,
+  "key" : 1,
+  "loudness" : -6.042,
+  "mode" : 1,
+  "speechiness" : 0.287,
+  "acousticness" : 0.379,
+  "instrumentalness" : 0.000111,
+  "liveness" : 0.407,
+  "valence" : 0.414,
+  "tempo" : 163.964,
+  "type" : "audio_features",
+  "id" : "5HtziFfFGxXpugCqZaAHoY",
+  "uri" : "spotify:track:5HtziFfFGxXpugCqZaAHoY",
+  "track_href" : "https://api.spotify.com/v1/tracks/5HtziFfFGxXpugCqZaAHoY",
+  "analysis_url" : "https://api.spotify.com/v1/audio-analysis/5HtziFfFGxXpugCqZaAHoY",
+  "duration_ms" : 260009,
+  "time_signature" : 4
+}]

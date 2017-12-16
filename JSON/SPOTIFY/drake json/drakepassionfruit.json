@@ -1,0 +1,23 @@
+[{
+"song" : "passionfruit",
+   "artist" : "drake",
+    "plays" : 421600000,
+  "danceability" : 0.804,
+  "energy" : 0.459,
+  "key" : 11,
+  "loudness" : -11.556,
+  "mode" : 1,
+  "speechiness" : 0.0390,
+  "acousticness" : 0.304,
+  "instrumentalness" : 0.0862,
+  "liveness" : 0.110,
+  "valence" : 0.372,
+  "tempo" : 111.963,
+  "type" : "audio_features",
+  "id" : "5mCPDVBb16L4XQwDdbRUpz",
+  "uri" : "spotify:track:5mCPDVBb16L4XQwDdbRUpz",
+  "track_href" : "https://api.spotify.com/v1/tracks/5mCPDVBb16L4XQwDdbRUpz",
+  "analysis_url" : "https://api.spotify.com/v1/audio-analysis/5mCPDVBb16L4XQwDdbRUpz",
+  "duration_ms" : 298941,
+  "time_signature" : 4
+}]

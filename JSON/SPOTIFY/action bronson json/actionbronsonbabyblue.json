@@ -1,0 +1,23 @@
+[{
+ "song" : "baby blue",
+  "artist" : "action bronson",
+   "plays" : 60800050,   
+  "danceability" : 0.828,
+  "energy" : 0.487,
+  "key" : 6,
+  "loudness" : -6.142,
+  "mode" : 0,
+  "speechiness" : 0.0343,
+  "acousticness" : 0.247,
+  "instrumentalness" : 0.0000186,
+  "liveness" : 0.136,
+  "valence" : 0.761,
+  "tempo" : 85.027,
+  "type" : "audio_features",
+  "id" : "7gDwRzJhLs0fFHaGtMDJVM",
+  "uri" : "spotify:track:7gDwRzJhLs0fFHaGtMDJVM",
+  "track_href" : "https://api.spotify.com/v1/tracks/7gDwRzJhLs0fFHaGtMDJVM",
+  "analysis_url" : "https://api.spotify.com/v1/audio-analysis/7gDwRzJhLs0fFHaGtMDJVM",
+  "duration_ms" : 280160,
+  "time_signature" : 4
+}]

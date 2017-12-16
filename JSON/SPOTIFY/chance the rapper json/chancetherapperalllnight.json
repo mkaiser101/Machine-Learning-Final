@@ -1,0 +1,23 @@
+[{
+"song" : "all night",
+   "artist" : "chance the rapper",
+    "plays" : 126036000,
+  "danceability" : 0.704,
+  "energy" : 0.777,
+  "key" : 2,
+  "loudness" : -5.729,
+  "mode" : 1,
+  "speechiness" : 0.195,
+  "acousticness" : 0.0358,
+  "instrumentalness" : 0,
+  "liveness" : 0.151,
+  "valence" : 0.392,
+  "tempo" : 111.921,
+  "type" : "audio_features",
+  "id" : "60xaS8mYBKUW4VQQ666N0T",
+  "uri" : "spotify:track:60xaS8mYBKUW4VQQ666N0T",
+  "track_href" : "https://api.spotify.com/v1/tracks/60xaS8mYBKUW4VQQ666N0T",
+  "analysis_url" : "https://api.spotify.com/v1/audio-analysis/60xaS8mYBKUW4VQQ666N0T",
+  "duration_ms" : 141542,
+  "time_signature" : 4
+}]

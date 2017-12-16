@@ -1,0 +1,23 @@
+[{
+"song" : "dreams and nightmares",
+   "artist" : "meek mill",
+    "plays" : 43706764,
+  "danceability" : 0.631,
+  "energy" : 0.774,
+  "key" : 11,
+  "loudness" : -2.459,
+  "mode" : 1,
+  "speechiness" : 0.300,
+  "acousticness" : 0.468,
+  "instrumentalness" : 0,
+  "liveness" : 0.281,
+  "valence" : 0.440,
+  "tempo" : 79.745,
+  "type" : "audio_features",
+  "id" : "42zd6DYQ4o4SECmTITrM1U",
+  "uri" : "spotify:track:42zd6DYQ4o4SECmTITrM1U",
+  "track_href" : "https://api.spotify.com/v1/tracks/42zd6DYQ4o4SECmTITrM1U",
+  "analysis_url" : "https://api.spotify.com/v1/audio-analysis/42zd6DYQ4o4SECmTITrM1U",
+  "duration_ms" : 230693,
+  "time_signature" : 4
+}]

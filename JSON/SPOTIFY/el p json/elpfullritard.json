@@ -1,0 +1,23 @@
+[{
+"song" : "full ritard",
+   "artist" : "el p",
+    "plays" : 2660000,
+  "danceability" : 0.493,
+  "energy" : 0.758,
+  "key" : 8,
+  "loudness" : -6.458,
+  "mode" : 1,
+  "speechiness" : 0.439,
+  "acousticness" : 0.00201,
+  "instrumentalness" : 0,
+  "liveness" : 0.149,
+  "valence" : 0.460,
+  "tempo" : 110.075,
+  "type" : "audio_features",
+  "id" : "2OIVxvKa7XYSiZO7IYyIK5",
+  "uri" : "spotify:track:2OIVxvKa7XYSiZO7IYyIK5",
+  "track_href" : "https://api.spotify.com/v1/tracks/2OIVxvKa7XYSiZO7IYyIK5",
+  "analysis_url" : "https://api.spotify.com/v1/audio-analysis/2OIVxvKa7XYSiZO7IYyIK5",
+  "duration_ms" : 219813,
+  "time_signature" : 5
+}]

@@ -1,0 +1,23 @@
+[{
+   "song" : "easy rider",
+  "artist" : "action bronson",
+   "plays" : 14100000,
+  "danceability" : 0.422,
+  "energy" : 0.851,
+  "key" : 11,
+  "loudness" : -4.031,
+  "mode" : 1,
+  "speechiness" : 0.0398,
+  "acousticness" : 0.0339,
+  "instrumentalness" : 0,
+  "liveness" : 0.152,
+  "valence" : 0.667,
+  "tempo" : 93.649,
+  "type" : "audio_features",
+  "id" : "4AH8GJVosfrbfhe5NVTAnx",
+  "uri" : "spotify:track:4AH8GJVosfrbfhe5NVTAnx",
+  "track_href" : "https://api.spotify.com/v1/tracks/4AH8GJVosfrbfhe5NVTAnx",
+  "analysis_url" : "https://api.spotify.com/v1/audio-analysis/4AH8GJVosfrbfhe5NVTAnx",
+  "duration_ms" : 259301,
+  "time_signature" : 4
+}]

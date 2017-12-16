@@ -1,0 +1,23 @@
+[{
+"song" : "the bird",
+   "artist" : "anderson paak",
+    "plays" : 18000000,
+  "danceability" : 0.488,
+  "energy" : 0.645,
+  "key" : 11,
+  "loudness" : -7.226,
+  "mode" : 1,
+  "speechiness" : 0.421,
+  "acousticness" : 0.0838,
+  "instrumentalness" : 0.000355,
+  "liveness" : 0.154,
+  "valence" : 0.595,
+  "tempo" : 148.733,
+  "type" : "audio_features",
+  "id" : "7pamxApUs3CE8t7tKmUJ6Z",
+  "uri" : "spotify:track:7pamxApUs3CE8t7tKmUJ6Z",
+  "track_href" : "https://api.spotify.com/v1/tracks/7pamxApUs3CE8t7tKmUJ6Z",
+  "analysis_url" : "https://api.spotify.com/v1/audio-analysis/7pamxApUs3CE8t7tKmUJ6Z",
+  "duration_ms" : 217773,
+  "time_signature" : 4
+}]

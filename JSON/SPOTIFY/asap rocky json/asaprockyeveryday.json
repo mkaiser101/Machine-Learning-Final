@@ -1,0 +1,23 @@
+[{
+"song" : "everyday",
+   "artist" : "asap rocky",
+    "plays" : 171000000,
+  "danceability" : 0.394,
+  "energy" : 0.661,
+  "key" : 4,
+  "loudness" : -8.684,
+  "mode" : 1,
+  "speechiness" : 0.193,
+  "acousticness" : 0.0101,
+  "instrumentalness" : 0,
+  "liveness" : 0.343,
+  "valence" : 0.335,
+  "tempo" : 149.822,
+  "type" : "audio_features",
+  "id" : "2N3U8uTYhjX2KwGT0pf5x0",
+  "uri" : "spotify:track:2N3U8uTYhjX2KwGT0pf5x0",
+  "track_href" : "https://api.spotify.com/v1/tracks/2N3U8uTYhjX2KwGT0pf5x0",
+  "analysis_url" : "https://api.spotify.com/v1/audio-analysis/2N3U8uTYhjX2KwGT0pf5x0",
+  "duration_ms" : 260987,
+  "time_signature" : 4
+}]

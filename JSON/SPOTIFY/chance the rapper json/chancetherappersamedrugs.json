@@ -1,0 +1,23 @@
+[{
+"song" : "same drugs",
+   "artist" : "chance the rapper",
+    "plays" : 240012000,
+  "danceability" : 0.461,
+  "energy" : 0.293,
+  "key" : 6,
+  "loudness" : -9.520,
+  "mode" : 1,
+  "speechiness" : 0.0555,
+  "acousticness" : 0.947,
+  "instrumentalness" : 0.00000995,
+  "liveness" : 0.0936,
+  "valence" : 0.531,
+  "tempo" : 180.297,
+  "type" : "audio_features",
+  "id" : "6m9qPYXmhge2QhBLfFKnVF",
+  "uri" : "spotify:track:6m9qPYXmhge2QhBLfFKnVF",
+  "track_href" : "https://api.spotify.com/v1/tracks/6m9qPYXmhge2QhBLfFKnVF",
+  "analysis_url" : "https://api.spotify.com/v1/audio-analysis/6m9qPYXmhge2QhBLfFKnVF",
+  "duration_ms" : 257775,
+  "time_signature" : 4
+}]

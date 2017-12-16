@@ -1,0 +1,23 @@
+[{
+"song" : "lord knows",
+   "artist" : "meek mill",
+    "plays" : 42075000,
+  "danceability" : 0.434,
+  "energy" : 0.695,
+  "key" : 10,
+  "loudness" : -7.464,
+  "mode" : 0,
+  "speechiness" : 0.485,
+  "acousticness" : 0.0168,
+  "instrumentalness" : 0,
+  "liveness" : 0.834,
+  "valence" : 0.160,
+  "tempo" : 167.309,
+  "type" : "audio_features",
+  "id" : "57hCSu4zMTdnSum7NBL1Ye",
+  "uri" : "spotify:track:57hCSu4zMTdnSum7NBL1Ye",
+  "track_href" : "https://api.spotify.com/v1/tracks/57hCSu4zMTdnSum7NBL1Ye",
+  "analysis_url" : "https://api.spotify.com/v1/audio-analysis/57hCSu4zMTdnSum7NBL1Ye",
+  "duration_ms" : 318840,
+  "time_signature" : 4
+}]

@@ -1,0 +1,23 @@
+[{
+"song" : "bad romance",
+   "artist" : "lady gaga",
+    "plays" : 188820000,
+  "danceability" : 0.697,
+  "energy" : 0.921,
+  "key" : 0,
+  "loudness" : -3.750,
+  "mode" : 1,
+  "speechiness" : 0.0391,
+  "acousticness" : 0.00305,
+  "instrumentalness" : 0.0000365,
+  "liveness" : 0.0831,
+  "valence" : 0.721,
+  "tempo" : 118.990,
+  "type" : "audio_features",
+  "id" : "5P5cGNzqh6A353N3ShDK6Y",
+  "uri" : "spotify:track:5P5cGNzqh6A353N3ShDK6Y",
+  "track_href" : "https://api.spotify.com/v1/tracks/5P5cGNzqh6A353N3ShDK6Y",
+  "analysis_url" : "https://api.spotify.com/v1/audio-analysis/5P5cGNzqh6A353N3ShDK6Y",
+  "duration_ms" : 294573,
+  "time_signature" : 4
+}]

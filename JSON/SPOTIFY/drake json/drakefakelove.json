@@ -1,0 +1,23 @@
+[{
+"song" : "fake love",
+   "artist" : "drake",
+    "plays" : 514202539,
+  "danceability" : 0.927,
+  "energy" : 0.488,
+  "key" : 9,
+  "loudness" : -9.433,
+  "mode" : 0,
+  "speechiness" : 0.420,
+  "acousticness" : 0.108,
+  "instrumentalness" : 0,
+  "liveness" : 0.196,
+  "valence" : 0.605,
+  "tempo" : 133.987,
+  "type" : "audio_features",
+  "id" : "343YBumqHu19cGoGARUTsd",
+  "uri" : "spotify:track:343YBumqHu19cGoGARUTsd",
+  "track_href" : "https://api.spotify.com/v1/tracks/343YBumqHu19cGoGARUTsd",
+  "analysis_url" : "https://api.spotify.com/v1/audio-analysis/343YBumqHu19cGoGARUTsd",
+  "duration_ms" : 210937,
+  "time_signature" : 4
+}]

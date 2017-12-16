@@ -1,0 +1,23 @@
+[{
+"song" : "am i wrong",
+   "artist" : "anderson paak",
+    "plays" : 29617000,
+  "danceability" : 0.729,
+  "energy" : 0.799,
+  "key" : 11,
+  "loudness" : -7.378,
+  "mode" : 0,
+  "speechiness" : 0.0779,
+  "acousticness" : 0.0588,
+  "instrumentalness" : 0.00218,
+  "liveness" : 0.0948,
+  "valence" : 0.532,
+  "tempo" : 115.040,
+  "type" : "audio_features",
+  "id" : "1UjyF6okUHhnVxaLV8ojsA",
+  "uri" : "spotify:track:1UjyF6okUHhnVxaLV8ojsA",
+  "track_href" : "https://api.spotify.com/v1/tracks/1UjyF6okUHhnVxaLV8ojsA",
+  "analysis_url" : "https://api.spotify.com/v1/audio-analysis/1UjyF6okUHhnVxaLV8ojsA",
+  "duration_ms" : 253520,
+  "time_signature" : 4
+}]

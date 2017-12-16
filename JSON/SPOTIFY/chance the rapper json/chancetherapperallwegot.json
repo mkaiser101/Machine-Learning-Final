@@ -1,0 +1,23 @@
+[{
+"song" : "all we got",
+   "artist" : "chance the rapper",
+    "plays" : 88978000,
+  "danceability" : 0.531,
+  "energy" : 0.544,
+  "key" : 0,
+  "loudness" : -8.615,
+  "mode" : 0,
+  "speechiness" : 0.462,
+  "acousticness" : 0.308,
+  "instrumentalness" : 0.00000189,
+  "liveness" : 0.0835,
+  "valence" : 0.398,
+  "tempo" : 131.921,
+  "type" : "audio_features",
+  "id" : "3ZLyt2ndLFBh148XRYjYYZ",
+  "uri" : "spotify:track:3ZLyt2ndLFBh148XRYjYYZ",
+  "track_href" : "https://api.spotify.com/v1/tracks/3ZLyt2ndLFBh148XRYjYYZ",
+  "analysis_url" : "https://api.spotify.com/v1/audio-analysis/3ZLyt2ndLFBh148XRYjYYZ",
+  "duration_ms" : 203794,
+  "time_signature" : 4
+}]

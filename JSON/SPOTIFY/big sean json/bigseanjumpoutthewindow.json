@@ -1,0 +1,23 @@
+[{
+"song" : "jump out the window",
+   "artist" : "big sean",
+    "plays" : 70400000,
+  "danceability" : 0.745,
+  "energy" : 0.714,
+  "key" : 1,
+  "loudness" : -6.729,
+  "mode" : 1,
+  "speechiness" : 0.0768,
+  "acousticness" : 0.147,
+  "instrumentalness" : 0,
+  "liveness" : 0.132,
+  "valence" : 0.554,
+  "tempo" : 136.972,
+  "type" : "audio_features",
+  "id" : "1jQsKN68yE94tMYml0wHMd",
+  "uri" : "spotify:track:1jQsKN68yE94tMYml0wHMd",
+  "track_href" : "https://api.spotify.com/v1/tracks/1jQsKN68yE94tMYml0wHMd",
+  "analysis_url" : "https://api.spotify.com/v1/audio-analysis/1jQsKN68yE94tMYml0wHMd",
+  "duration_ms" : 213693,
+  "time_signature" : 4
+}]

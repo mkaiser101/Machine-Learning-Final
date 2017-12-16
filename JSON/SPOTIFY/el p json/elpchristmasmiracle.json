@@ -1,0 +1,23 @@
+[{
+"song" : "christmas miracle",
+   "artist" : "el p",
+    "plays" : 3292000,
+  "danceability" : 0.688,
+  "energy" : 0.697,
+  "key" : 9,
+  "loudness" : -8.838,
+  "mode" : 0,
+  "speechiness" : 0.0315,
+  "acousticness" : 0.00925,
+  "instrumentalness" : 0.771,
+  "liveness" : 0.0935,
+  "valence" : 0.0937,
+  "tempo" : 106.014,
+  "type" : "audio_features",
+  "id" : "3nyndR62O7vbXRzlGQvwOF",
+  "uri" : "spotify:track:3nyndR62O7vbXRzlGQvwOF",
+  "track_href" : "https://api.spotify.com/v1/tracks/3nyndR62O7vbXRzlGQvwOF",
+  "analysis_url" : "https://api.spotify.com/v1/audio-analysis/3nyndR62O7vbXRzlGQvwOF",
+  "duration_ms" : 261433,
+  "time_signature" : 4
+}]

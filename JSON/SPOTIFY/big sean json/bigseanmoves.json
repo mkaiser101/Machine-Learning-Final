@@ -1,0 +1,23 @@
+[{
+"song" : "moves",
+   "artist" : "big sean",
+    "plays" : 138300000,
+  "danceability" : 0.789,
+  "energy" : 0.530,
+  "key" : 2,
+  "loudness" : -6.200,
+  "mode" : 1,
+  "speechiness" : 0.293,
+  "acousticness" : 0.0541,
+  "instrumentalness" : 0,
+  "liveness" : 0.164,
+  "valence" : 0.367,
+  "tempo" : 75.515,
+  "type" : "audio_features",
+  "id" : "0Fv5N0cHBsl4bzCbollCAS",
+  "uri" : "spotify:track:0Fv5N0cHBsl4bzCbollCAS",
+  "track_href" : "https://api.spotify.com/v1/tracks/0Fv5N0cHBsl4bzCbollCAS",
+  "analysis_url" : "https://api.spotify.com/v1/audio-analysis/0Fv5N0cHBsl4bzCbollCAS",
+  "duration_ms" : 142907,
+  "time_signature" : 4
+}]

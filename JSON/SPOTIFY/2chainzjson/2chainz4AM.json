@@ -1,0 +1,23 @@
+[{
+  "song" : "4 AM",
+  "artist" : "2 Chainz",
+   "plays" : 92000000,
+  "danceability" : 0.796,
+  "energy" : 0.513,
+  "key" : 6,
+  "loudness" : -7.140,
+  "mode" : 0,
+  "speechiness" : 0.452,
+  "acousticness" : 0.122,
+  "instrumentalness" : 0,
+  "liveness" : 0.150,
+  "valence" : 0.235,
+  "tempo" : 75.018,
+  "type" : "audio_features",
+  "id" : "1nX9KhK3Fff27SnrIor2Yb",
+  "uri" : "spotify:track:1nX9KhK3Fff27SnrIor2Yb",
+  "track_href" : "https://api.spotify.com/v1/tracks/1nX9KhK3Fff27SnrIor2Yb",
+  "analysis_url" : "https://api.spotify.com/v1/audio-analysis/1nX9KhK3Fff27SnrIor2Yb",
+  "duration_ms" : 255560,
+  "time_signature" : 4
+}]

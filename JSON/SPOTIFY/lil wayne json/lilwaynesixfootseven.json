@@ -1,0 +1,23 @@
+[{
+"song" : "six foot seven",
+   "artist" : "lil wayne",
+    "plays" : 132900000,
+  "danceability" : 0.377,
+  "energy" : 0.738,
+  "key" : 2,
+  "loudness" : -5.320,
+  "mode" : 1,
+  "speechiness" : 0.311,
+  "acousticness" : 0.000683,
+  "instrumentalness" : 0,
+  "liveness" : 0.319,
+  "valence" : 0.570,
+  "tempo" : 80.846,
+  "type" : "audio_features",
+  "id" : "0z5ZPs57J2KERwM1tBM2GF",
+  "uri" : "spotify:track:0z5ZPs57J2KERwM1tBM2GF",
+  "track_href" : "https://api.spotify.com/v1/tracks/0z5ZPs57J2KERwM1tBM2GF",
+  "analysis_url" : "https://api.spotify.com/v1/audio-analysis/0z5ZPs57J2KERwM1tBM2GF",
+  "duration_ms" : 248587,
+  "time_signature" : 4
+}]

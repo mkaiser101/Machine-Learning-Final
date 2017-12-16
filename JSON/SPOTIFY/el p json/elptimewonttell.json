@@ -1,0 +1,23 @@
+[{
+"song" : "time wont tell",
+   "artist" : "el p",
+    "plays" : 1076000,
+  "danceability" : 0.440,
+  "energy" : 0.798,
+  "key" : 11,
+  "loudness" : -10.011,
+  "mode" : 1,
+  "speechiness" : 0.0431,
+  "acousticness" : 0.00810,
+  "instrumentalness" : 0.957,
+  "liveness" : 0.426,
+  "valence" : 0.152,
+  "tempo" : 174.095,
+  "type" : "audio_features",
+  "id" : "1EcsJ8rFEOQDX5WSP0XdYC",
+  "uri" : "spotify:track:1EcsJ8rFEOQDX5WSP0XdYC",
+  "track_href" : "https://api.spotify.com/v1/tracks/1EcsJ8rFEOQDX5WSP0XdYC",
+  "analysis_url" : "https://api.spotify.com/v1/audio-analysis/1EcsJ8rFEOQDX5WSP0XdYC",
+  "duration_ms" : 176556,
+  "time_signature" : 4
+}]

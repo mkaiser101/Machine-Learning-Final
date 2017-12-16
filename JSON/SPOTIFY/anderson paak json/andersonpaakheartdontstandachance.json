@@ -1,0 +1,23 @@
+[{
+"song" : "heart dont stand a chance",
+   "artist" : "anderson paak",
+    "plays" : 16000000,
+  "danceability" : 0.685,
+  "energy" : 0.545,
+  "key" : 7,
+  "loudness" : -6.189,
+  "mode" : 1,
+  "speechiness" : 0.0610,
+  "acousticness" : 0.173,
+  "instrumentalness" : 0.0000144,
+  "liveness" : 0.237,
+  "valence" : 0.506,
+  "tempo" : 94.061,
+  "type" : "audio_features",
+  "id" : "25GlFJq5QNAXyVgJvCZ4Mf",
+  "uri" : "spotify:track:25GlFJq5QNAXyVgJvCZ4Mf",
+  "track_href" : "https://api.spotify.com/v1/tracks/25GlFJq5QNAXyVgJvCZ4Mf",
+  "analysis_url" : "https://api.spotify.com/v1/audio-analysis/25GlFJq5QNAXyVgJvCZ4Mf",
+  "duration_ms" : 312360,
+  "time_signature" : 4
+}]

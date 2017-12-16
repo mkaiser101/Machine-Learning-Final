@@ -1,0 +1,23 @@
+[{
+"song" : "come down",
+   "artist" : "anderson paak",
+    "plays" : 28440000,
+  "danceability" : 0.820,
+  "energy" : 0.908,
+  "key" : 10,
+  "loudness" : -6.151,
+  "mode" : 0,
+  "speechiness" : 0.124,
+  "acousticness" : 0.328,
+  "instrumentalness" : 0.00155,
+  "liveness" : 0.296,
+  "valence" : 0.919,
+  "tempo" : 98.381,
+  "type" : "audio_features",
+  "id" : "276zciJ7Fg7Jk6Ta6QuLkp",
+  "uri" : "spotify:track:276zciJ7Fg7Jk6Ta6QuLkp",
+  "track_href" : "https://api.spotify.com/v1/tracks/276zciJ7Fg7Jk6Ta6QuLkp",
+  "analysis_url" : "https://api.spotify.com/v1/audio-analysis/276zciJ7Fg7Jk6Ta6QuLkp",
+  "duration_ms" : 176693,
+  "time_signature" : 4
+}]

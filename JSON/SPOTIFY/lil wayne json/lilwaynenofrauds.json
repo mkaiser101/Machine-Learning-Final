@@ -1,0 +1,23 @@
+[{
+"song" : "no frauds",
+   "artist" : "lil wayne",
+    "plays" : 73600000,
+  "danceability" : 0.873,
+  "energy" : 0.561,
+  "key" : 1,
+  "loudness" : -7.013,
+  "mode" : 1,
+  "speechiness" : 0.272,
+  "acousticness" : 0.0766,
+  "instrumentalness" : 0.00000293,
+  "liveness" : 0.416,
+  "valence" : 0.417,
+  "tempo" : 139.064,
+  "type" : "audio_features",
+  "id" : "7KcGEssn7BnJdTgildK5y0",
+  "uri" : "spotify:track:7KcGEssn7BnJdTgildK5y0",
+  "track_href" : "https://api.spotify.com/v1/tracks/7KcGEssn7BnJdTgildK5y0",
+  "analysis_url" : "https://api.spotify.com/v1/audio-analysis/7KcGEssn7BnJdTgildK5y0",
+  "duration_ms" : 272453,
+  "time_signature" : 4
+}]

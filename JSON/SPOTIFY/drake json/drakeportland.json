@@ -1,0 +1,23 @@
+[{
+"song" : "portland",
+   "artist" : "drake",
+    "plays" : 220200000,
+  "danceability" : 0.924,
+  "energy" : 0.444,
+  "key" : 1,
+  "loudness" : -8.227,
+  "mode" : 1,
+  "speechiness" : 0.243,
+  "acousticness" : 0.0143,
+  "instrumentalness" : 0,
+  "liveness" : 0.260,
+  "valence" : 0.314,
+  "tempo" : 136.088,
+  "type" : "audio_features",
+  "id" : "2bjwRfXMk4uRgOD9IBYl9h",
+  "uri" : "spotify:track:2bjwRfXMk4uRgOD9IBYl9h",
+  "track_href" : "https://api.spotify.com/v1/tracks/2bjwRfXMk4uRgOD9IBYl9h",
+  "analysis_url" : "https://api.spotify.com/v1/audio-analysis/2bjwRfXMk4uRgOD9IBYl9h",
+  "duration_ms" : 236615,
+  "time_signature" : 4
+}]
