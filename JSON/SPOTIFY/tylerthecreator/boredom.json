@@ -1,0 +1,23 @@
+[{
+   "song" : "boredom",
+   "artist": "tylerthecreator",
+   "plays": 24242458,
+   "danceability": 0.559,
+      "energy": 0.578,
+      "key": 8,
+      "loudness": -9.54,
+      "mode": 1,
+      "speechiness": 0.151,
+      "acousticness": 0.79,
+      "instrumentalness": 0.000522,
+      "liveness": 0.324,
+      "valence": 0.239,
+      "tempo": 79.938,
+      "type": "audio_features",
+      "id": "5WNYg3usc6H8N3MBEp4zVk",
+      "uri": "spotify:track:5WNYg3usc6H8N3MBEp4zVk",
+      "track_href": "https://api.spotify.com/v1/tracks/5WNYg3usc6H8N3MBEp4zVk",
+      "analysis_url": "https://api.spotify.com/v1/audio-analysis/5WNYg3usc6H8N3MBEp4zVk",
+      "duration_ms": 320720,
+      "time_signature": 4
+    }]

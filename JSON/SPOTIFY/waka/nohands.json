@@ -1,0 +1,23 @@
+[{
+   "song" : "nohands",
+   "artist": "wakaflocka",
+   "plays": 131966529,
+  "danceability": 0.76,
+      "energy": 0.595,
+      "key": 1,
+      "loudness": -6.366,
+      "mode": 1,
+      "speechiness": 0.0391,
+      "acousticness": 0.00544,
+      "instrumentalness": 0,
+      "liveness": 0.241,
+      "valence": 0.361,
+      "tempo": 131.497,
+      "type": "audio_features",
+      "id": "03tqyYWC9Um2ZqU0ZN849H",
+      "uri": "spotify:track:03tqyYWC9Um2ZqU0ZN849H",
+      "track_href": "https://api.spotify.com/v1/tracks/03tqyYWC9Um2ZqU0ZN849H",
+      "analysis_url": "https://api.spotify.com/v1/audio-analysis/03tqyYWC9Um2ZqU0ZN849H",
+      "duration_ms": 263773,
+      "time_signature": 4
+    }]

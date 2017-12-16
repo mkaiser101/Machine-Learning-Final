@@ -1,0 +1,23 @@
+[{
+   "song" : "hardindapaint",
+   "artist": "wakaflocka",
+   "plays": 39413664,
+ "danceability": 0.611,
+      "energy": 0.66,
+      "key": 11,
+      "loudness": -5.883,
+      "mode": 1,
+      "speechiness": 0.0839,
+      "acousticness": 0.198,
+      "instrumentalness": 0,
+      "liveness": 0.365,
+      "valence": 0.583,
+      "tempo": 71.544,
+      "type": "audio_features",
+      "id": "3XQY8kDjI8LARMIC9xkxQk",
+      "uri": "spotify:track:3XQY8kDjI8LARMIC9xkxQk",
+      "track_href": "https://api.spotify.com/v1/tracks/3XQY8kDjI8LARMIC9xkxQk",
+      "analysis_url": "https://api.spotify.com/v1/audio-analysis/3XQY8kDjI8LARMIC9xkxQk",
+      "duration_ms": 246387,
+      "time_signature": 4
+    }]

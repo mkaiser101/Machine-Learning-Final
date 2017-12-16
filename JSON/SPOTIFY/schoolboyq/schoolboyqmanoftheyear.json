@@ -1,0 +1,23 @@
+[{
+  "song": "man of the year",
+  "artist": "schoolboy q",
+  "plays": 141700000,
+  "danceability" : 0.749,
+  "energy" : 0.857,
+  "key" : 3,
+  "loudness" : -5.240,
+  "mode" : 1,
+  "speechiness" : 0.0435,
+  "acousticness" : 0.00539,
+  "instrumentalness" : 0,
+  "liveness" : 0.192,
+  "valence" : 0.354,
+  "tempo" : 111.906,
+  "type" : "audio_features",
+  "id" : "5SsR3wtCOafDmZgvIdRhSm",
+  "uri" : "spotify:track:5SsR3wtCOafDmZgvIdRhSm",
+  "track_href" : "https://api.spotify.com/v1/tracks/5SsR3wtCOafDmZgvIdRhSm",
+  "analysis_url" : "https://api.spotify.com/v1/audio-analysis/5SsR3wtCOafDmZgvIdRhSm",
+  "duration_ms" : 216013,
+  "time_signature" : 4
+}]

@@ -1,0 +1,23 @@
+[{
+   "song" : "see you again",
+   "artist": "tylerthecreator",
+   "plays": 35193426,
+ "danceability": 0.558,
+      "energy": 0.559,
+      "key": 6,
+      "loudness": -9.222,
+      "mode": 1,
+      "speechiness": 0.0959,
+      "acousticness": 0.371,
+      "instrumentalness": 0.00000749,
+      "liveness": 0.109,
+      "valence": 0.62,
+      "tempo": 78.558,
+      "type": "audio_features",
+      "id": "7KA4W4McWYRpgf0fWsJZWB",
+      "uri": "spotify:track:7KA4W4McWYRpgf0fWsJZWB",
+      "track_href": "https://api.spotify.com/v1/tracks/7KA4W4McWYRpgf0fWsJZWB",
+      "analysis_url": "https://api.spotify.com/v1/audio-analysis/7KA4W4McWYRpgf0fWsJZWB",
+      "duration_ms": 180387,
+      "time_signature": 4
+    }]

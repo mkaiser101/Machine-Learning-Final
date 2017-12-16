@@ -1,0 +1,23 @@
+[{
+   "song": "dolce and gabanna",
+  "artist": "riff raff",
+  "plays": 11640000,
+  "danceability" : 0.911,
+  "energy" : 0.665,
+  "key" : 8,
+  "loudness" : -5.169,
+  "mode" : 0,
+  "speechiness" : 0.249,
+  "acousticness" : 0.0271,
+  "instrumentalness" : 0,
+  "liveness" : 0.0656,
+  "valence" : 0.408,
+  "tempo" : 140.136,
+  "type" : "audio_features",
+  "id" : "6ZziEeo8rdjBeqDE6kFdfD",
+  "uri" : "spotify:track:6ZziEeo8rdjBeqDE6kFdfD",
+  "track_href" : "https://api.spotify.com/v1/tracks/6ZziEeo8rdjBeqDE6kFdfD",
+  "analysis_url" : "https://api.spotify.com/v1/audio-analysis/6ZziEeo8rdjBeqDE6kFdfD",
+  "duration_ms" : 202714,
+  "time_signature" : 4
+}]

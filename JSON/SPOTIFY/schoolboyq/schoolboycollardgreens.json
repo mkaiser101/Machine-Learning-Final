@@ -1,0 +1,23 @@
+[{
+  "song": "collard greens",
+  "artist": "schoolboy q",
+  "plays": 133357000,
+  "danceability" : 0.824,
+  "energy" : 0.572,
+  "key" : 11,
+  "loudness" : -4.868,
+  "mode" : 1,
+  "speechiness" : 0.0652,
+  "acousticness" : 0.0233,
+  "instrumentalness" : 0.00000819,
+  "liveness" : 0.208,
+  "valence" : 0.667,
+  "tempo" : 153.977,
+  "type" : "audio_features",
+  "id" : "0zO8ctW0UiuOefR87OeJOZ",
+  "uri" : "spotify:track:0zO8ctW0UiuOefR87OeJOZ",
+  "track_href" : "https://api.spotify.com/v1/tracks/0zO8ctW0UiuOefR87OeJOZ",
+  "analysis_url" : "https://api.spotify.com/v1/audio-analysis/0zO8ctW0UiuOefR87OeJOZ",
+  "duration_ms" : 299960,
+  "time_signature" : 4
+}]

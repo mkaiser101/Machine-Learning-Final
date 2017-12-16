@@ -1,0 +1,23 @@
+[{
+   "song" : "Young Wild and Free",
+   "artist": "Wiz",
+   "plays": 356443902,
+    "danceability": 0.553,
+      "energy": 0.652,
+      "key": 0,
+      "loudness": -6.685,
+      "mode": 1,
+      "speechiness": 0.206,
+      "acousticness": 0.0897,
+      "instrumentalness": 0,
+      "liveness": 0.111,
+      "valence": 0.551,
+      "tempo": 94.505,
+      "type": "audio_features",
+      "id": "6YbhspuOar1D9WSSnfe7ds",
+      "uri": "spotify:track:6YbhspuOar1D9WSSnfe7ds",
+      "track_href": "https://api.spotify.com/v1/tracks/6YbhspuOar1D9WSSnfe7ds",
+      "analysis_url": "https://api.spotify.com/v1/audio-analysis/6YbhspuOar1D9WSSnfe7ds",
+      "duration_ms": 207347,
+      "time_signature": 4
+    }]

@@ -1,0 +1,23 @@
+[{
+  "song": "needed me",
+  "artist": "rihanna",
+  "plays": 540800000,
+  "danceability" : 0.688,
+  "energy" : 0.325,
+  "key" : 5,
+  "loudness" : -8.083,
+  "mode" : 0,
+  "speechiness" : 0.251,
+  "acousticness" : 0.107,
+  "instrumentalness" : 0,
+  "liveness" : 0.0837,
+  "valence" : 0.275,
+  "tempo" : 110.888,
+  "type" : "audio_features",
+  "id" : "1Tt4sE4pXi57mTD1GCzsqm",
+  "uri" : "spotify:track:1Tt4sE4pXi57mTD1GCzsqm",
+  "track_href" : "https://api.spotify.com/v1/tracks/1Tt4sE4pXi57mTD1GCzsqm",
+  "analysis_url" : "https://api.spotify.com/v1/audio-analysis/1Tt4sE4pXi57mTD1GCzsqm",
+  "duration_ms" : 191600,
+  "time_signature" : 4
+}]

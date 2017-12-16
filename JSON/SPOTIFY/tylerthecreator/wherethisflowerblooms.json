@@ -1,0 +1,23 @@
+[{
+   "song" : "where this flower blooms",
+   "artist": "tylerthecreator",
+   "plays": 16597872,
+    "danceability": 0.686,
+      "energy": 0.429,
+      "key": 8,
+      "loudness": -10.402,
+      "mode": 0,
+      "speechiness": 0.15,
+      "acousticness": 0.71,
+      "instrumentalness": 0.00000341,
+      "liveness": 0.166,
+      "valence": 0.27,
+      "tempo": 130.09,
+      "type": "audio_features",
+      "id": "6KuXb26rHuRy3ZDse1VRmx",
+      "uri": "spotify:track:6KuXb26rHuRy3ZDse1VRmx",
+      "track_href": "https://api.spotify.com/v1/tracks/6KuXb26rHuRy3ZDse1VRmx",
+      "analysis_url": "https://api.spotify.com/v1/audio-analysis/6KuXb26rHuRy3ZDse1VRmx",
+      "duration_ms": 194933,
+      "time_signature": 4
+    }]

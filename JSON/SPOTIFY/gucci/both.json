@@ -1,0 +1,23 @@
+[{
+   "song" : "both",
+   "artist": "gucci",
+   "plays": 112791763,
+  "danceability": 0.85,
+  "energy": 0.405,
+  "key": 7,
+  "loudness": -7.509,
+  "mode": 0,
+  "speechiness": 0.225,
+  "acousticness": 0.119,
+  "instrumentalness": 0.000118,
+  "liveness": 0.0707,
+  "valence": 0.344,
+  "tempo": 139.976,
+  "type": "audio_features",
+  "id": "5tFep7dXGd7vEJ668wTPux",
+  "uri": "spotify:track:5tFep7dXGd7vEJ668wTPux",
+  "track_href": "https://api.spotify.com/v1/tracks/5tFep7dXGd7vEJ668wTPux",
+  "analysis_url": "https://api.spotify.com/v1/audio-analysis/5tFep7dXGd7vEJ668wTPux",
+  "duration_ms": 190312,
+  "time_signature": 4
+    }]

@@ -1,0 +1,23 @@
+[{
+   "song" : "cantslaveme",
+   "artist": "wakaflocka",
+   "plays": 2114838,
+   "danceability": 0.744,
+      "energy": 0.874,
+      "key": 5,
+      "loudness": -4.038,
+      "mode": 0,
+      "speechiness": 0.0487,
+      "acousticness": 0.00478,
+      "instrumentalness": 0.0000722,
+      "liveness": 0.293,
+      "valence": 0.38,
+      "tempo": 127.949,
+      "type": "audio_features",
+      "id": "0mFLkTE4YQiLnfSDDVbSOM",
+      "uri": "spotify:track:0mFLkTE4YQiLnfSDDVbSOM",
+      "track_href": "https://api.spotify.com/v1/tracks/0mFLkTE4YQiLnfSDDVbSOM",
+      "analysis_url": "https://api.spotify.com/v1/audio-analysis/0mFLkTE4YQiLnfSDDVbSOM",
+      "duration_ms": 170656,
+      "time_signature": 4
+    }]

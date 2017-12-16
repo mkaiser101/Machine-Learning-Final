@@ -1,0 +1,23 @@
+[{
+   "song" : "15thandthe1st",
+   "artist": "wakaflocka",
+   "plays": 21236727,
+  "danceability": 0.837,
+      "energy": 0.656,
+      "key": 11,
+      "loudness": -4.32,
+      "mode": 1,
+      "speechiness": 0.322,
+      "acousticness": 0.0427,
+      "instrumentalness": 0,
+      "liveness": 0.115,
+      "valence": 0.401,
+      "tempo": 140.113,
+      "type": "audio_features",
+      "id": "7dbJh6sbJqgaxI3Bdax4qu",
+      "uri": "spotify:track:7dbJh6sbJqgaxI3Bdax4qu",
+      "track_href": "https://api.spotify.com/v1/tracks/7dbJh6sbJqgaxI3Bdax4qu",
+      "analysis_url": "https://api.spotify.com/v1/audio-analysis/7dbJh6sbJqgaxI3Bdax4qu",
+      "duration_ms": 233387,
+      "time_signature": 4
+    }]

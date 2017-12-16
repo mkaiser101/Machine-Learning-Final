@@ -1,0 +1,23 @@
+[{
+   "song" : "mat gala",
+   "artist": "gucci",
+   "plays": 60370180,
+   "danceability": 0.817,
+  "energy": 0.587,
+  "key": 2,
+  "loudness": -6.502,
+  "mode": 1,
+  "speechiness": 0.108,
+  "acousticness": 0.052,
+  "instrumentalness": 0.00165,
+  "liveness": 0.185,
+  "valence": 0.352,
+  "tempo": 140.062,
+  "type": "audio_features",
+  "id": "2XaInsPPUkZRkY4uFJ3AHK",
+  "uri": "spotify:track:2XaInsPPUkZRkY4uFJ3AHK",
+  "track_href": "https://api.spotify.com/v1/tracks/2XaInsPPUkZRkY4uFJ3AHK",
+  "analysis_url": "https://api.spotify.com/v1/audio-analysis/2XaInsPPUkZRkY4uFJ3AHK",
+  "duration_ms": 209143,
+  "time_signature": 4
+    }]

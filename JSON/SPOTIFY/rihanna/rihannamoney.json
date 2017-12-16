@@ -1,0 +1,23 @@
+[{
+  "song": "bitch better have my money",
+  "artist": "rihanna",
+  "plays": 339300000,
+  "danceability" : 0.778,
+  "energy" : 0.741,
+  "key" : 10,
+  "loudness" : -4.970,
+  "mode" : 0,
+  "speechiness" : 0.0484,
+  "acousticness" : 0.0538,
+  "instrumentalness" : 0.00000204,
+  "liveness" : 0.290,
+  "valence" : 0.364,
+  "tempo" : 102.950,
+  "type" : "audio_features",
+  "id" : "0NTMtAO2BV4tnGvw9EgBVq",
+  "uri" : "spotify:track:0NTMtAO2BV4tnGvw9EgBVq",
+  "track_href" : "https://api.spotify.com/v1/tracks/0NTMtAO2BV4tnGvw9EgBVq",
+  "analysis_url" : "https://api.spotify.com/v1/audio-analysis/0NTMtAO2BV4tnGvw9EgBVq",
+  "duration_ms" : 219306,
+  "time_signature" : 4
+}]
