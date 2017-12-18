@@ -1,0 +1,23 @@
+[{
+  "song": "champion",
+  "artist": "2 chainz",
+  "plays": 128800300,
+  "danceability" : 0.695,
+  "energy" : 0.777,
+  "key" : 6,
+  "loudness" : -2.452,
+  "mode" : 0,
+  "speechiness" : 0.0817,
+  "acousticness" : 0.0661,
+  "instrumentalness" : 0,
+  "liveness" : 0.874,
+  "valence" : 0.360,
+  "tempo" : 135.010,
+  "type" : "audio_features",
+  "id" : "2nBI3iWLhupR7LyAJ5GGkE",
+  "uri" : "spotify:track:2nBI3iWLhupR7LyAJ5GGkE",
+  "track_href" : "https://api.spotify.com/v1/tracks/2nBI3iWLhupR7LyAJ5GGkE",
+  "analysis_url" : "https://api.spotify.com/v1/audio-analysis/2nBI3iWLhupR7LyAJ5GGkE",
+  "duration_ms" : 334253,
+  "time_signature" : 4
+}]

@@ -1,6 +1,7 @@
 [{
-  "Artist": "Kendrick Lamar",
-  "Track_ID": "Humble",
+  "artist": "Kendrick Lamar",
+  "song": "Humble",
+  "plays": 652018860,
   "danceability": 0.904,
   "energy": 0.611,
   "key": 1,

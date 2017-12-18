@@ -1,6 +1,7 @@
 [{
-    "Artist": "Kendrick Lamar",
-    "Track_ID": "DNA",
+    "artist": "Kendrick Lamar",
+    "song": "DNA",
+    "plays": 312180630,
     "danceability": 0.637,
     "energy": 0.514,
     "key": 1,

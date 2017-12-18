@@ -1,6 +1,7 @@
 [{
-  "Artist": "Kendrick Lamar",
-  "Track_ID": "Loyalty",
+  "artist": "Kendrick Lamar",
+  "song": "Loyalty",
+  "plays": 210134862,
   "danceability": 0.681,
   "energy": 0.541,
   "key": 9,

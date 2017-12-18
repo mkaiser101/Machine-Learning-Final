@@ -1,6 +1,7 @@
 [{
-    "Artist": "Kendrick Lamar",
-    "Track_ID": "Love",
+    "artist": "Kendrick Lamar",
+    "song": "Love",
+    "plays": 218591776,
     "danceability": 0.798,
     "energy": 0.582,
     "key": 10,
