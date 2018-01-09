@@ -9,7 +9,7 @@ sp = spotipy.Spotify(client_credentials_manager=client_credentials_manager)
 sp.trace=False
 
 
-uri = 'spotify:user:spotify:playlist:37i9dQZF1DX5EkyRFIV92g'
+uri = 'spotify:user:1241841806:playlist:5aiYqG18WvmWm8msSSnquC'
 username = uri.split(':')[2]
 playlist_id = uri.split(':')[4]
 
